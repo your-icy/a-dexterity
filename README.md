@@ -15,7 +15,7 @@
  🌱 I’m currently learning **Spring Boot, MongoDB, ReactJS**
 
 💬 Ask me about **Java 7, Terraform, Python... or Microsoft Azure**
-<-- anything [here](https://github.com/salesp07/salesp07/issues) -->
+
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
